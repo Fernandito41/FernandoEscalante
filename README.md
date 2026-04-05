@@ -7,7 +7,7 @@ Actualmente trabajando en **Theers**, una red social tipo Instagram escolar.
 React · Tailwind · Python · Flask · Appwrite
 
 ## 📂 Proyectos destacados
-- **Theers** – Red social tipo Instagram escolar: [Repositorio]()
+- **Theers** – Red social tipo Instagram escolar: [Repositorio](https://github.com/Fernandito41/THERS_REDSOCIAL)
 
 ## 📫 Contacto
 Correo: fernandoescalante132009@mail.com  
